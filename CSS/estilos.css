@@ -1,13 +1,5 @@
-<style>
-table {
-    width: 50%;
+body { 
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
 }
-th, td {
-    border: 5px solid rgb(227, 9, 9); /* Ajusta el grosor y color del borde */
-    padding: 5px;           /* Añade espacio interno en las celdas */
-    text-align: center;        /* Alinea el texto a la izquierda */
-}
-th {
-    background-color: #ec0b0b; /* Añade un color de fondo a los encabezados */
-}
-</style>

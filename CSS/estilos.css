@@ -8,9 +8,13 @@ img {
     height: auto;
     display: block;
     margin: 10 px 0;
-    border-style: solid;
-    border-width: 30px 0px 30px 0px;
 }
 .link {
     color: rgb(0, 128, 53);
     text-decoration: none;
+}
+.image-container img:first-child {
+    border-style: solid;
+    border-width: 20px 0px 20px 0px;
+    
+}
